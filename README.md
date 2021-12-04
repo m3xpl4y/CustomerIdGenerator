@@ -1,4 +1,4 @@
-# CustomerIdGenerator
+# CustomerId Generator
 Generate a Customer Id with 2 Letters and 6 Numbers, also you can change the length of the numbers by adding the length in the constructor
 How to:
 
